@@ -1,3 +1,15 @@
+---
+title: Email Generator (DistilGPT2)
+emoji: 📧
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: "4.26.0"
+app_file: app.py
+pinned: false
+---
+
+
 # DistilGPT2 Email Generator
 
 This Space hosts a fine-tuned DistilGPT2 model that generates professional emails:
@@ -5,6 +17,11 @@ This Space hosts a fine-tuned DistilGPT2 model that generates professional email
 - **Greeting**
 - **Body** content
 - **Closing** sign‑off
+
+# Email Generator (DistilGPT2)
+
+This Space lets you generate formal corporate emails (with subject, greeting, body, and sign-off) using a fine-tuned DistilGPT2 model.
+
 
 ## How to use
 Enter a short prompt (e.g. “Remind HR to approve leave requests by Friday”) and click **Submit**.
